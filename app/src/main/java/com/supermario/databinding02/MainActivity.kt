@@ -17,8 +17,8 @@ class MainActivity : AppCompatActivity() {
                 imageUrl.set("https://st.depositphotos.com/1269204/1219/i/600/depositphotos_12196477-stock-photo-smiling-men-isolated-on-the.jpg")
             })
             add(Student().apply {
-                name.set("Amal")
-                age.set(22)
+//                name.set("Amal")
+                age.set(55)
                 imageUrl.set("https://image.freepik.com/free-photo/pleased-handsome-businessman-pointing-person-making-good-point-nice-job-praising-employee-saying-well-done_176420-21751.jpg")
             })
             add(Student().apply {
